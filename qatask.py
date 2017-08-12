@@ -35,9 +35,9 @@ class AmazonQA(unittest.TestCase):
         amazonSearchResultCSS       = ".a-color-state.a-text-bold"
 
         #Amazon credentials
-        amazonEmail                 = "mk.akpinar@yandex.com"
-        amazonPassword              = "amazon147852"
-        amazonSearchText            = "samsung"
+        amazonEmail                 = "YOUR_EMAIL_HERE"
+        amazonPassword              = "YOUR_PASSWORD_HERE"
+        amazonSearchText            = "YOUR_TEXT_HERE"
 
         # Signin to amazon.com.
         amazonSigninLinkElement     = WebDriverWait(driver,10).until(
