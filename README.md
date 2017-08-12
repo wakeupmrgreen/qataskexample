@@ -10,4 +10,4 @@
  + go to wishlist and verify that product is on the list
  + delete the product from the list
 
- #--DONT FORGET TO REPLACE THE "YOUR_EMAIL_HERE", "YOUR_PASSWORD_HERE", "YOUR_TEXT_HERE" WITH YOURS--
+ --DONT FORGET TO REPLACE THE "YOUR_EMAIL_HERE", "YOUR_PASSWORD_HERE", "YOUR_TEXT_HERE" WITH YOURS--
