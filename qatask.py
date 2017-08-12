@@ -38,7 +38,7 @@ class AmazonQA(unittest.TestCase):
         amazonEmail                 = "YOUR_EMAIL_HERE"
         amazonPassword              = "YOUR_PASSWORD_HERE"
         amazonSearchText            = "YOUR_TEXT_HERE"
-
+ 
         # Signin to amazon.com.
         amazonSigninLinkElement     = WebDriverWait(driver,10).until(
             EC.visibility_of_element_located((By.ID, amazonSigninLinkID)))
